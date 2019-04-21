@@ -1,0 +1,12 @@
+.row.button {
+    margin-top: 30px;
+    justify-content: flex-end;
+}
+
+.card, .content {
+    margin-top: 30px;
+}
+
+p.description {
+ text-align: justify;
+}
